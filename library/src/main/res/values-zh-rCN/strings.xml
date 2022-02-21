@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="refresh">刷新</string>
+  <string name="find">查找</string>
+  <string name="share_via">分享</string>
+  <string name="copy_link">复制链接</string>
+  <string name="open_with">在浏览器中打开</string>
+  <string name="copied_to_clipboard">已复制到剪切板</string>
+  <string name="save_photo">保存到手机</string>
+  <string name="photo_saved_to">已保存至手机</string>
+  <string name="photo_save_failed">保存到手机失败</string>
+  <string name="file_chooser">从以下应用选择文件</string>
+  <string name="loading_video">正在加载视频…</string>
+</resources>
